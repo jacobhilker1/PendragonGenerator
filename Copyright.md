@@ -1,1 +1,1 @@
-"ng Arthur Pendragon is the trademark of Chaosium Inc., and the King Arthur Pendragon character sheet is copyright © 2016 by Chaosium Inc. This application uses material with the permission of Chaosium Inc."
+"King Arthur Pendragon is the trademark of Chaosium Inc., and the King Arthur Pendragon character sheet is copyright © 2016 by Chaosium Inc. This application uses material with the permission of Chaosium Inc."
