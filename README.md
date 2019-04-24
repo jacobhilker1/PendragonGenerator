@@ -1,2 +1,2 @@
-# randomfamilytree
-For a random family tree using the method described in King Arthur Pendragon 5.2. 
+# PendragonCharGen
+For creating a character using the method described in the core rulebook of Pendragon, v. 5.2.
