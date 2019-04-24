@@ -8,9 +8,10 @@ public class Knight extends Character {
     private Hashtable<String, Integer> traits, skills, atts, passions;
     private ArrayList<Character> siblings;
     static class NoGenderException extends Exception{}
-
+    int points;
     public Knight() {
           super();
+          points = 60;
           siblings = new ArrayList<Character>();
           traits = new Hashtable<String, Integer>();
           skills = new Hashtable<String, Integer>();
@@ -33,4 +34,9 @@ public class Knight extends Character {
         throw new NoGenderException();
       }
     }
+
+    void setAtt(String an, int i){
+     points -= i;
+     atts.put(an,i);
+         }
 }
